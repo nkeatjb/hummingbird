@@ -1,0 +1,75 @@
+{
+    "timestamp": 1584234163152,
+    "projects": {
+        "Joybird: Design System": {
+            "Colors": {
+                "layers": 64,
+                "layersReferencingExternalSymbols": 0,
+                "layersReferencingExternalLayerStyles": 0,
+                "layersReferencingExternalTextStyles": 5
+            },
+            "Product": {
+                "layers": 24,
+                "layersReferencingExternalSymbols": 3,
+                "layersReferencingExternalLayerStyles": 10,
+                "layersReferencingExternalTextStyles": 0
+            },
+            "Typography": {
+                "layers": 117,
+                "layersReferencingExternalSymbols": 1,
+                "layersReferencingExternalLayerStyles": 0,
+                "layersReferencingExternalTextStyles": 0
+            },
+            "Components": {
+                "layers": 341,
+                "layersReferencingExternalSymbols": 44,
+                "layersReferencingExternalLayerStyles": 84,
+                "layersReferencingExternalTextStyles": 110
+            },
+            "Global": {
+                "layers": 190,
+                "layersReferencingExternalSymbols": 28,
+                "layersReferencingExternalLayerStyles": 49,
+                "layersReferencingExternalTextStyles": 45
+            },
+            "Icons": {
+                "layers": 349,
+                "layersReferencingExternalSymbols": 0,
+                "layersReferencingExternalLayerStyles": 91,
+                "layersReferencingExternalTextStyles": 0
+            }
+        },
+        "Joybird: Website": {
+            "📒Content": {
+                "layers": 2076,
+                "layersReferencingExternalSymbols": 187,
+                "layersReferencingExternalLayerStyles": 230,
+                "layersReferencingExternalTextStyles": 589
+            },
+            "🔒Guidelines": {
+                "layers": 3692,
+                "layersReferencingExternalSymbols": 342,
+                "layersReferencingExternalLayerStyles": 502,
+                "layersReferencingExternalTextStyles": 989
+            },
+            "💡Discover": {
+                "layers": 9747,
+                "layersReferencingExternalSymbols": 754,
+                "layersReferencingExternalLayerStyles": 1259,
+                "layersReferencingExternalTextStyles": 1730
+            },
+            "🤝Customer": {
+                "layers": 14651,
+                "layersReferencingExternalSymbols": 2665,
+                "layersReferencingExternalLayerStyles": 1749,
+                "layersReferencingExternalTextStyles": 3712
+            },
+            "🤩 PDP": {
+                "layers": 15302,
+                "layersReferencingExternalSymbols": 1626,
+                "layersReferencingExternalLayerStyles": 1281,
+                "layersReferencingExternalTextStyles": 3349
+            }
+        }
+    }
+}
